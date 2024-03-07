@@ -4,10 +4,10 @@ This repository contains an analysis of the Ecommerce Cosmetic Dataset, which in
 
 ## Contents
 
-1. [Dataset](#dataset)
-2. [SQL Query](#sql-query)
-3. [Dashboard](#dashboard)
-4. [Report](#report)
+1. [Dataset](#ecommerce_cosmetic_dataset.xlsx)
+2. [SQL Query](#Ecommerce Cosmetic Dataset Analysis Report.docx)
+3. [Dashboard](#ecommerce cosmetic dashboard.pbix)
+4. [Report](#Ecommerce Cosmetic Dataset Analysis Report.docx)
 
 ## Dataset
 
